@@ -69,7 +69,7 @@
 //     }
 // }
 
-// #### #7
+// #### For...of loops: Praktikë (#7)
 // const studentet = ['Aldin', 'Ali', 'Almir', 'Arlind', 'Artan', 'Elvedin', 'Gafar', 'Jon'];
 // for (const s of studentet) {
 //     console.log(s);
